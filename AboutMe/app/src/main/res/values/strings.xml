@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Zhifu</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="biography_text">
+        My name is Zhifu Chen, and I\'m a student eager to make the most out of my educational journey.
+        With a strong passion for learning and a commitment to personal growth, I strive to excel
+        academically while also fostering a sense of curiosity about the world around me.
+        In class, you\'ll find me actively engaging in discussions, always ready to share insights
+        and learn from my peers. Beyond the classroom, I have a variety of interests that include
+        keeping up with the latest technological advancements and delving into books that expand
+        my knowledge and imagination.I also value teamwork and believe that working together towards
+        a common goal can lead to innovative solutions and enriching experiences. Whether it\'s collaborating
+        on a project or simply enjoying downtime with friends, I cherish the moments spent building meaningful
+        connections.Looking ahead, I am excited about the opportunities that await and am prepared to
+        embrace challenges with enthusiasm and determination. I look forward to contributing
+        positively to the community and making lasting friendships along the way.
+    </string>
+    <string name="hobbies">Hobbies</string>
+    <string name="contact">Contact</string>
+    <string name="biography">Biography</string>
+    <string name="about">About</string>
+    <string name="hobbies_text">I love to read, take photographs, and cycle!</string>
+    <string name="contact_text">My email is zhifuchen@fake.edu</string>
+    <string name="going_to_contact">Going to Contact…</string>
+    <string name="email_zhifuchen_fake_edu">Email: zhifuchen@fake.edu</string>
+</resources>
